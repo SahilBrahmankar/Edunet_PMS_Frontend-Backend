@@ -5,13 +5,13 @@ The **Edunet PMS** is a full-stack Project Management Tool designed to manage an
 - **Frontend**: The user interface of the application.
 - **Backend**: The server-side logic and database management.
 
-
+```bash
 ## Installation
 
 ### Frontend Installation
 Navigate to the **frontend** directory:
 
-   ```bash
+   
    cd Frontend
 
    npm install
