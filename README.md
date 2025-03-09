@@ -17,6 +17,7 @@ Navigate to the **frontend** directory:
    npm install
 
    npm start
+   bash```
 
 ### Backend Installation
 
