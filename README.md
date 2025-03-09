@@ -22,7 +22,6 @@ Navigate to the **frontend** directory:
 
 Navigate to the **backend** directory:
 
-   ```bash
    cd Backend
 
    npm install
