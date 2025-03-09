@@ -7,7 +7,7 @@ The **Edunet PMS** is a full-stack Project Management Tool designed to manage an
 
 
 ## Installation
-```bash
+
 ### Frontend Installation
 Navigate to the **frontend** directory:
 
